@@ -3,4 +3,6 @@
 * [Part1](./Part1.stl)
 * [Part2](./Part2.stl)
 
-![HackMaster Pi 3D Printing Time-lapse](./src/Time-lapse.gif)
+<video width="320" height="240" controls>
+  <source src="./src/Time-lapse.mp4" type="video/mp4">
+</video>
